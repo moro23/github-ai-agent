@@ -1,10 +1,9 @@
 # GitHub AI Agent
 
-Ever tried asking an AI about a framework that just came out, or about your private codebase? It doesn't go well. The AI doesn't know what it doesn't know, and you end up copy-pasting docs into chat windows like it's 2019.
+Ever tried asking an AI about a framework that just came out, or about your private codebase? The AI doesn't know what it doesn't know, and you end up copy-pasting docs into chat windows like it's 2019.
 
-This project fixes that. It's an AI agent that actually reads your GitHub repo — the docs, the code, all of it — and then answers your questions about it intelligently. Not from memory. From the source.
+The goal of this project is to build an AI agent that actually reads your GitHub repository. Including the docs, the code, and all other file and then answer your prompt/questions intelligently and not from random sources or its memory. 
 
-I'm building this over 7 days as part of an AI Engineering cohort. Everything here is a work in progress, and I'm learning as I go.
 
 ## How it works
 
